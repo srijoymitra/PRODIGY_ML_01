@@ -43,8 +43,6 @@ PRODIGY_ML_01/
 │-- README.md              # Project Documentation
 ```
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ---
 Made with ❤️ by [Srijoy Mitra](https://github.com/srijoymitra) 🚀
